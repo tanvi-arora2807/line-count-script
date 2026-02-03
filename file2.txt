@@ -1,0 +1,2 @@
+This is file two. It creates only info messages.
+Duplicate lines
